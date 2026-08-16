@@ -1,4 +1,3 @@
-# Text to Speech generator
 # 🔊 AI Multilingual Text-to-Speech
 
 > **Transform text and documents into translated speech — powered by AI, Ollama, Llama 3.2, and gTTS.**

@@ -926,7 +926,9 @@ Audio Output
 
 ## ⬇️ Download Audio
 
-![Download Audio](screenshots/downloading_speech.png)
+## 🎥 Downloading Speech Demo
+
+https://github.com/KANIZ6228/[YOUR_REPOSITORY/](https://github.com/KANIZ6228/AI-Multilingual-Text-to-Speech)raw/refs/heads/main/screenshots/downloading_speech.mp4
 
 # 🎥 Demo
 
@@ -990,8 +992,8 @@ Interested in **AI, Machine Learning, Automation, and Intelligent Applications**
 
 ### Connect
 
-* 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-* 🐙 GitHub: [Your GitHub](YOUR_GITHUB_URL)
+* 💼 LinkedIn: [MY LinkedIn](https://www.linkedin.com/in/kaniz6228/)
+* 🐙 GitHub: [Your GitHub](https://github.com/KANIZ6228/)
 
 ---
 
@@ -1011,7 +1013,6 @@ Feel free to:
 
 This project is intended for educational and portfolio purposes.
 
-Add an appropriate open-source license if you plan to accept external contributions.
 
 ---
 

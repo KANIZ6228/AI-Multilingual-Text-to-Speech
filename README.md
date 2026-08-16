@@ -904,26 +904,29 @@ Audio Output
 
 # 📸 Screenshots
 
-Add screenshots of your application here.
+## 🏠 Home Page
 
-Example:
+![Home Page](screenshots/home_page.png)
 
-```text
-screenshots/
-├── home.png
-├── pdf-upload.png
-├── ai-processing.png
-├── translation.png
-└── audio-output.png
-```
+## 📄 PDF Upload & Text Extraction
 
-Then add them to the README:
+![PDF Upload](screenshots/pdf_upload.png)
 
-```markdown
-![Application Interface](screenshots/home.png)
-```
+## 🤖 AI Text Processing
 
----
+![AI Processing](screenshots/ai-processing.png)
+
+## 🌍 Translation
+
+![Translation](screenshots/translation.png)
+
+## 🔊 Generated Audio
+
+![Audio Output](screenshots/audio_output.png)
+
+## ⬇️ Download Audio
+
+![Download Audio](screenshots/downloading_speech.png)
 
 # 🎥 Demo
 

@@ -972,7 +972,7 @@ Listen anywhere
 
 **Kaniz Fatema**
 
-Computer Science / Software Engineering Student
+Computer Science (Software Engineering) Student
 Interested in **AI, Machine Learning, Automation, and Intelligent Applications**
 
 ### Connect
